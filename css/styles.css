@@ -1,0 +1,147 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+
+h1 {
+  margin: 2.6rem auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #40514E;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #40514E;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 10%;
+  color: #40514E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 300px;
+  width: 10%;
+}
+
+.mountain {
+  width: 35%
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position:
+
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile-text, .p-contact-me{
+  width: 30%;
+  margin: auto;
+  font-size: 1.3rem;
+}
+
+.profile-image{
+  width: 10%;
+}
+
+.computer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row, .chillies-row{
+  padding-top: 10px;
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align-last: left;
+
+  line-height: 2;
+}
+
+.skills-text, .chillies-text{
+  text-align: left;
+  font-size: 1.3rem;
+}
+
+hr {
+  margin: 100px auto;
+  width: 3%;
+  background-color: transparent;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 7px;
+  border-color: #D2D2D2;
+}
+
+.h3-contact-me{
+  margin: 30px;
+}
+
+.btn{
+  display: block;
+  width: 180px;
+  margin: 30px auto;
+  padding: 10px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4rem;
+  border-radius: 8px;
+  color: #FFFFFF;
+  text-decoration: none;
+  background: linear-gradient(0deg, #09969B 0%, #0EAEB5 35%, #0FC8CF 100%);
+}
+
+.btn:hover{
+  background: linear-gradient(0deg, #0FC8CF 0%, #0EAEB5 35%, #09969B 100%);
+}
+
+.footer-link{
+
+  display: inline-block;
+  width: 150px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.4rem;
+}
+
+.footer-Surname{
+  padding-top: 30px;
+  color: #EAF6F6;
+}
